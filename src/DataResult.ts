@@ -6,7 +6,7 @@ import {
 } from 'class-transformer'
 import type {DataType} from './types'
 import type {DataStorage} from './DataStorage'
-import AsyncStorage from '@react-native-community/async-storage'
+import AsyncStorage from '@react-native-async-storage/async-storage'
 import type {ClassType} from 'class-transformer/ClassTransformer'
 import {StorageListener} from './StorageListener'
 
